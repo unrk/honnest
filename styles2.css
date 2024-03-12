@@ -5,7 +5,7 @@
 body {
 	font: 100% "Work Sans", Helvetica, sans-serif;
 	margin: 0;
-	padding: 1rem;
+	padding: 7rem;
 	min-height: 100vh;
 	display: flex;
 	justify-content: center;
@@ -62,4 +62,30 @@ figure {
   display: block;
   margin: auto;
   width: 80px;
+}
+
+.close {
+  position: absolute;
+  right: 32px;
+  top: 32px;
+  width: 32px;
+  height: 32px;
+  opacity: 0.3;
+}
+.close:hover {
+  opacity: 1;
+}
+.close:before, .close:after {
+  position: absolute;
+  left: 15px;
+  content: ' ';
+  height: 33px;
+  width: 2px;
+  background-color: #009640;
+}
+.close:before {
+  transform: rotate(45deg);
+}
+.close:after {
+  transform: rotate(-45deg);
 }
