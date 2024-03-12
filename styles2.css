@@ -91,7 +91,3 @@ figure {
   transform: rotate(-45deg);
 }
 
-.dark-mode {
-  background-color: rgb(15, 15, 17);
-  color: rgb(222, 222, 222);
-}
