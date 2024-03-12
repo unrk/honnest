@@ -1,3 +1,4 @@
+# English
 Love is a complex and profound emotion that has captivated humanity for millennia. It's a feeling that transcends boundaries and connects individuals in ways that are both mysterious and beautiful. But what exactly is love, and how can we understand and nurture it?
 
 To love is to care deeply for someone or something, to feel a profound affection and attachment that goes beyond mere superficial attraction. It's about acceptance, understanding, and support. Loving someone means embracing their flaws and imperfections, and seeing the beauty in their uniqueness.
@@ -16,8 +17,7 @@ In conclusion, love is a fundamental aspect of the human condition. It's a force
 
 
 
-
-
+# French
 L'amour est une émotion complexe et profonde qui a captivé l'humanité depuis des millénaires. C'est un sentiment qui transcende les frontières et relie les individus de manière à la fois mystérieuse et belle. Mais qu'est-ce que l'amour exactement, et comment pouvons-nous le comprendre et le nourrir ?
 
 Aimer, c'est se soucier profondément de quelqu'un ou de quelque chose, ressentir une affection profonde et une attachement qui va au-delà d'une simple attraction superficielle. C'est une question d'acceptation, de compréhension et de soutien. Aimer quelqu'un signifie embrasser ses défauts et ses imperfections, et voir la beauté dans son unicité.
@@ -37,7 +37,7 @@ En conclusion, l'amour est un aspect fondamental de la condition humaine. C'est 
 
 
 
-
+# Spanish
 El amor es una emoción compleja y profunda que ha cautivado a la humanidad durante milenios. Es un sentimiento que trasciende fronteras y conecta a las personas de formas misteriosas y hermosas. Pero, ¿qué es exactamente el amor y cómo podemos entenderlo y nutrirlo?
 
 Amar es preocuparse profundamente por alguien o algo, sentir un afecto y un apego profundos que van más allá de una mera atracción superficial. Se trata de aceptación, comprensión y apoyo. Amar a alguien significa abrazar sus defectos e imperfecciones, y ver la belleza en su singularidad.
@@ -57,7 +57,7 @@ En conclusión, el amor es un aspecto fundamental de la condición humana. Es un
 
 
 
-
+# Portuguese
 O amor é uma emoção complexa e profunda que cativou a humanidade por milênios. É um sentimento que transcende fronteiras e conecta indivíduos de maneiras misteriosas e belas. Mas o que é o amor exatamente e como podemos entendê-lo e nutri-lo?
 
 Amar é cuidar profundamente de alguém ou algo, sentir um afeto profundo e um apego que vai além de uma simples atração superficial. É uma questão de aceitação, compreensão e apoio. Amar alguém significa abraçar seus defeitos e imperfeições e ver a beleza em sua singularidade.
@@ -77,7 +77,7 @@ Em conclusão, o amor é um aspecto fundamental da condição humana. É uma for
 
 
 
-
+# Russian
 Любовь - это сложное и глубокое чувство, которое завораживает человечество на протяжении тысячелетий. Это чувство, которое пересекает границы и объединяет людей способами, которые искусственны и прекрасны. Но что такое любовь на самом деле, и как мы можем понять и развивать ее?
 
 Любить - значит глубоко заботиться о ком-то или чем-то, испытывать глубокую привязанность, которая превосходит простое поверхностное притяжение. Это о признании, понимании и поддержке. Любить кого-то означает принять его недостатки и недостатки и увидеть красоту в его уникальности.
@@ -97,7 +97,7 @@ Em conclusão, o amor é um aspecto fundamental da condição humana. É uma for
 
 
 
-
+# Italian
 L'amore è un'emozione complessa e profonda che ha affascinato l'umanità per millenni. È un sentimento che supera i confini e connette le persone in modi misteriosi e belli. Ma che cos'è esattamente l'amore e come possiamo capirlo e coltivarlo?
 
 Amare significa prendersi cura profondamente di qualcuno o qualcosa, provare un'affetto profondo e un attaccamento che va oltre una semplice attrazione superficiale. Si tratta di accettazione, comprensione e supporto. Amare qualcuno significa abbracciare i suoi difetti e imperfezioni e vedere la bellezza nella sua unicità.
