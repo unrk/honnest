@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: black;
-    font-family: 'Press Start 2P', cursive; /* Spécifique à une police de type ancien jeu vidéo */
+    font-family: 'Press Start 2P', cursive;
 }
 
 .centered {
