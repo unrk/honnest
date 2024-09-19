@@ -223,5 +223,9 @@ body {
     color: #d9480f;
   }
   
-  
+.header {
+    background-color: #000;
+    height: 100px;
+    margin-top: 0pt;
+}
   
