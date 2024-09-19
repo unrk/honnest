@@ -183,4 +183,12 @@ body {
   }
   .snowflake:nth-of-type(11) .inner {
     animation-delay: 4s;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 200px;
   }
+
+  
